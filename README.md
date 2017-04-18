@@ -21,12 +21,11 @@
 <iframe src="http://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp4" width="600" height="360" scrolling="no" style="border:none;"></iframe>
 ~~~
 
-## Preview : http://shortener.ma/mp3/Developers/
-
-### Parameters (optional):
+##### Parameters (optional):
 - v [youtube video id] - must contain a valid 11 digits YouTube video id (gIYaTs1Kw90)
 - f [format] - must contain a supported format (mp3 or mp4)
 
+### Preview : http://shortener.ma/mp3/Developers/
 
 # Link API
 ~~~
@@ -49,11 +48,11 @@ Example [mp3 / href]
 <a href="" data-href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m mp4"> Click to Download MP4</a>
 ~~~
 
-## Preview : http://shortener.ma/mp3/Developers/
+### Preview : http://shortener.ma/mp3/Developers/
 
-### Parameters (required):
+##### Parameters (required):
 ~~~
 - <script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
 ~~~
-href or data-href - must contain a valid YouTube video url (https://www.youtube.com/watch?v=gIYaTs1Kw90 or https://youtu.be/gIYaTs1Kw90)
+- href or data-href - must contain a valid YouTube video url (https://www.youtube.com/watch?v=gIYaTs1Kw90 or https://youtu.be/gIYaTs1Kw90)
 class - must contain y2m / if you would like to convert to mp4 (y2m mp4)
