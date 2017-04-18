@@ -29,9 +29,9 @@ Example [iframe / mp4]
 # Link API
 
 - (required) : <script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
-- Example [mp3 / href] 
-- <!-- HTML CODE--><a href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m"> Click to Download MP3</a>
-
+~~~Example [mp3 / href] 
+<a href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m"> Click to Download MP3</a>
+~~~
 # Preview :
 
 - Example [mp3 / data-href]
