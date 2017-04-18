@@ -22,6 +22,8 @@
 <iframe src="http://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp4" width="600" height="360" scrolling="no" style="border:none;"></iframe>
 ~~~
 
+# Preview : http://shortener.ma/mp3/Developers/
+
 ### Parameters (optional):
 - v [youtube video id] - must contain a valid 11 digits YouTube video id (gIYaTs1Kw90)
 - f [format] - must contain a supported format (mp3 or mp4)
