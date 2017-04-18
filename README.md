@@ -1,5 +1,5 @@
 # Preview : 
-# http://shortener.ma/mp3/ http://shortener.ma/iframe/
+# http://shortener.ma/mp3/ | http://shortener.ma/iframe/
 
 # INSTALLATION :
 1. it's simple, first download the zip file.
