@@ -51,7 +51,7 @@ Example [mp3 / href]
 ## Preview : http://shortener.ma/mp3/Developers/
 #### Parameters (required):
 ~~~
-<script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
+<script type="text/javascript" src="https://shortener.ma/mp3/js/link.js"></script>
 ~~~
 - href or data-href - must contain a valid YouTube video url (https://www.youtube.com/watch?v=gIYaTs1Kw90 or https://youtu.be/gIYaTs1Kw90)
 class - must contain y2m / if you would like to convert to mp4 (y2m mp4)
