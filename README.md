@@ -1,6 +1,3 @@
-# Youtuber to MP3 or MP4
-Responsive Converter Youtube MP3 MP4
-
 # INSTALLATION :
 1. it's simple, first download the zip file.
 2. Copy them to localhost or to your site.
@@ -36,37 +33,36 @@ Example [iframe / mp4]
 
 ## Link API
 ~~~
-required :
-- <script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
-~~~
-~~~
 Example [mp3 / href] 
 <a href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m"> Click to Download MP3</a>
 ~~~
 
-### Preview :
+### Preview : http://shortener.ma/mp3/Developers/
 
 ~~~
 Example [mp3 / data-href]
 - <!-- HTML CODE--><a href="" data-href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m"> Click to Download MP3</a>
 ~~~
 
-### Preview :
+### Preview : http://shortener.ma/mp3/Developers/
 
 ~~~
 - Example [mp4 / href]
 - <!-- HTML CODE--><a href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m mp4"> Click to Download MP4</a>
 ~~~
 
-### Preview :
+### Preview : http://shortener.ma/mp3/Developers/
 
 ~~~
 - Example [mp4 / data-href]
 - <!-- HTML CODE--><a href="" data-href="https://www.youtube.com/watch?v=gIYaTs1Kw90" target="_self" class="y2m mp4"> Click to Download MP4</a>
 ~~~
 
-### Preview :
+### Preview : http://shortener.ma/mp3/Developers/
 
-## Parameters (required):
+### Parameters (required):
+~~~
+- <script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
+~~~
 href or data-href - must contain a valid YouTube video url (https://www.youtube.com/watch?v=gIYaTs1Kw90 or https://youtu.be/gIYaTs1Kw90)
 class - must contain y2m / if you would like to convert to mp4 (y2m mp4)
