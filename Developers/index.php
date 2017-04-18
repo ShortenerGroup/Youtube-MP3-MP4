@@ -1,11 +1,10 @@
           <html lang="en"><head>
-        <title>Contact - Youtuber Downloader MP3/MP4</title>
-      <base href="http://shortener.ma">
+        <title>Developers - Youtuber Downloader MP3/MP4</title>
     <meta name="robots" content="noindex">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
-<script type="text/javascript" src="/iframe/js/iframe.js"></script>
-<script type="text/javascript" src="https://shortener.ma/iframe/js/link.js"></script>
+<script type="text/javascript" src="/mp3/js/iframe.js"></script>
+<script type="text/javascript" src="/mp3/js/link.js"></script>
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,700,700i"> 
 <link rel="stylesheet" type="text/css" href="/mp3/css/iframe.css">
 
@@ -24,7 +23,7 @@
       <table style="width:100%">
           <tr>
              <th style="text-align:left;width:50%">
-               <a href="/mp3"><img src="/c/img/lmp3.png" width="80" height="30" /></a>
+               <a href="/mp3"><img src="/mp3/img/lmp3.png" width="80" height="30" /></a>
              </th>
              <th style="text-align:right;direction:rtl;width:50%;color:#fff">
                 <span class="curs" onclick="openNav()">&#9776;OPEN</span>
@@ -73,7 +72,7 @@ iFrame API</h2>
 Link API</h2>
 <div>
 (required) :<br/><br/>
-&lt;script type="text/javascript" <span class="s" style="font-weight: 700;">src</span>="<span class="i" style="font-style: italic;">https://shortener.ma/iframe/js/link.js</span>"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" <span class="s" style="font-weight: 700;">src</span>="<span class="i" style="font-style: italic;">https://shortener.ma/mp3/js/link.js</span>"&gt;&lt;/script&gt;
 
 <pre class="code" style="background-color: #f4f8fc; border-radius: 2px; color: #0a7ebe; font-family: Roboto, sans-serif; line-height: 27px; padding: 10px 20px; text-align: initial; white-space: pre-wrap;"><span class="s" style="font-weight: 700;">Example [mp3 / href]</span>
 &lt;a <span class="s" style="font-weight: 700;">href</span>="<span class="i" style="font-style: italic;">https://www.youtube.com/watch?v=gIYaTs1Kw90</span>" target="_self" <span class="s" style="font-weight: 700;">class</span>="<span class="i" style="font-style: italic;">y2m</span>"&gt; Click to Download !!&lt;/a&gt;
