@@ -3,7 +3,7 @@
 # INSTALLATION :
 1. it's simple, first download the zip file.
 2. Copy them to localhost or to your site.
-3. And you can change css from css / iframe.css is free.
+3. And you can change Style from css/iframe.css is free.
 
 # iFrame API
 ~~~
