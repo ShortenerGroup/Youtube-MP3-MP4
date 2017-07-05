@@ -8,17 +8,17 @@
 # iFrame API
 ~~~
 - Example [iframe]
-<iframe src="http://shortener.ma/iframe/" width="600" height="360" scrolling="no" style="border:none;"></iframe>
+<iframe src="https://shortener.ma/iframe/" width="600" height="360" scrolling="no" style="border:none;"></iframe>
 ~~~
 
 ~~~
 - Example [iframe / mp3]
-<iframe src="http://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp3" width="600" height="360" scrolling="no" style="border:none;"></iframe>
+<iframe src="https://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp3" width="600" height="360" scrolling="no" style="border:none;"></iframe>
 ~~~
 
 ~~~
 - Example [iframe / mp4]
-<iframe src="http://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp4" width="600" height="360" scrolling="no" style="border:none;"></iframe>
+<iframe src="https://shortener.ma/iframe/?v=gIYaTs1Kw90&f=mp4" width="600" height="360" scrolling="no" style="border:none;"></iframe>
 ~~~
 
 ## Preview : http://mp3.shortener.ma/Developers/
