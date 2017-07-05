@@ -11,18 +11,18 @@
 <body>
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a id="active" href="/mp3/#">Home</a>
-  <a href="/mp3/About" >About</a>
-  <a href="/mp3/Services">Services</a>
-  <a href="/mp3/Developers">Developers</a>
-  <a href="/mp3/Contact">Contact</a>
+  <a id="active" href="#">Home</a>
+  <a href="About" >About</a>
+  <a href="Services">Services</a>
+  <a href="Developers">Developers</a>
+  <a href="Contact">Contact</a>
 </div>
 
 <div id="main">
   <table style="width:100%">
       <tr>
         <th style="text-align:left;width:50%">
-            <a href="/mp3"><img src="/mp3/img/lmp3.png" width="80" height="30" /></a>
+            <a href="/"><img src="img/lmp3.png" width="80" height="30" /></a>
         </th>
         <th style="text-align:right;direction:rtl;width:50%;color:#fff">
             <span class="curs" onclick="openNav()">&#9776;OPEN</span>
@@ -30,7 +30,7 @@
       </tr>
   </table>
 
- <iframe src="http://shortener.ma/iframe/" width="100%" height="360" scrolling="no" style="color:#fff;border:none;"></iframe>
+ <iframe src="https://shortener.ma/iframe/" width="100%" height="360" scrolling="no" style="color:#fff;border:none;"></iframe>
 
     <div style="background-color:#f0f0f0;border-radius:10px;padding-left:10px;direction:ltr;font-size:20px;margin:20px;">
         <div id="color1">How does <a id="ytb2">You</a><a id="ytb1">tuber</a> Converter work? Everything is quite <a id="tit">simple</a>:</div><br/>
