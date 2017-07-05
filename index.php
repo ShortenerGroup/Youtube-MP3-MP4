@@ -3,9 +3,9 @@
 <meta name="robots" content="noindex">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
-<script type="text/javascript" src="/mp3/js/iframe.js"></script>
+<script type="text/javascript" src="js/iframe.js"></script>
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,700,700i"> 
-<link rel="stylesheet" type="text/css" href="/mp3/css/iframe.css">
+<link rel="stylesheet" type="text/css" href="css/iframe.css">
 
 </head>
 <body>
